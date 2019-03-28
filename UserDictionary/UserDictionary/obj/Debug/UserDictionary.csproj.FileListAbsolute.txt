@@ -1,0 +1,7 @@
+D:\Prog\Projects\UserDictionary\UserDictionary\obj\Debug\UserDictionary.csprojAssemblyReference.cache
+D:\Prog\Projects\UserDictionary\UserDictionary\obj\Debug\UserDictionary.csproj.CoreCompileInputs.cache
+D:\Prog\Projects\UserDictionary\UserDictionary\bin\Debug\UserDictionary.exe.config
+D:\Prog\Projects\UserDictionary\UserDictionary\bin\Debug\UserDictionary.exe
+D:\Prog\Projects\UserDictionary\UserDictionary\bin\Debug\UserDictionary.pdb
+D:\Prog\Projects\UserDictionary\UserDictionary\obj\Debug\UserDictionary.exe
+D:\Prog\Projects\UserDictionary\UserDictionary\obj\Debug\UserDictionary.pdb
